@@ -4,7 +4,7 @@ import logging
 
 from aiogram import Bot, Dispatcher, executor, types
 
-API_TOKEN = '1653579035:AAFud8XCxQuFFN6dUkm6c3kJItOL48xi9B8'
+API_TOKEN = '' # Token from https://vkhost.github.io/ selected Kate Mobile
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
